@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Bacardi_Animations/static/css/main.c35cb6b8.css",
+    "main.css": "/Bacardi_Animations/static/css/main.2a30f77d.css",
     "main.js": "/Bacardi_Animations/static/js/main.9ffb7d15.js",
     "index.html": "/Bacardi_Animations/index.html",
-    "main.c35cb6b8.css.map": "/Bacardi_Animations/static/css/main.c35cb6b8.css.map",
+    "main.2a30f77d.css.map": "/Bacardi_Animations/static/css/main.2a30f77d.css.map",
     "main.9ffb7d15.js.map": "/Bacardi_Animations/static/js/main.9ffb7d15.js.map"
   },
   "entrypoints": [
-    "static/css/main.c35cb6b8.css",
+    "static/css/main.2a30f77d.css",
     "static/js/main.9ffb7d15.js"
   ]
 }
