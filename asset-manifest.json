@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bacardi_Animations/static/css/main.395d7bf3.css",
+    "main.js": "/Bacardi_Animations/static/js/main.9ffb7d15.js",
+    "index.html": "/Bacardi_Animations/index.html",
+    "main.395d7bf3.css.map": "/Bacardi_Animations/static/css/main.395d7bf3.css.map",
+    "main.9ffb7d15.js.map": "/Bacardi_Animations/static/js/main.9ffb7d15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.395d7bf3.css",
+    "static/js/main.9ffb7d15.js"
+  ]
+}
